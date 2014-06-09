@@ -1,0 +1,2 @@
+graft rt
+include *.cfg *.rst *.in
