@@ -4,9 +4,9 @@ Changelog
 =========
 
 
-0.1 (unreleased)
-----------------
+0.9.0 (2014-06-10)
+------------------
 
 - Initial release.
-  [YOUR NAME HERE]
+  [ale-rt]
 
