@@ -24,6 +24,8 @@ What you will get
 A **maracas_macros view** with some macros:
  - http://localhost:8080/maracas_macros
 
+.. image:: https://raw.githubusercontent.com/RedTurtle/rt.maracas/master/docs/_static/maracas-macros.png
+
 Two **views** (**maracas-simple** and **maracas-and-whistle**).
 
 You can control them with the query parameters:
@@ -36,6 +38,20 @@ Example usage of these views:
  - http://localhost:8080/Plone/maracas-and-whistle?autoplay=1&loop=1
 
 You will also get a **Maracas portlet** (see the screenshot of the add form).
+
+.. image:: https://raw.githubusercontent.com/RedTurtle/rt.maracas/master/docs/_static/add-maracas-portlet.png
+
+
+How to annoy people
+===================
+
+Adding a portlet with nasty settings can lead to very annoying results!
+
+The fatality combo is this one:
+
+ - Autoplay: True
+ - Controls: False
+ - Loop: True
 
 Enjoy and good luck for your favourite team!
 
