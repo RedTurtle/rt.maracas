@@ -2,7 +2,7 @@
 rt.maracas
 ====================
 
-.. image:: http://blog.redturtle.it/rt.maracas-plone-gadget-brazil-2014/leadImage_preview
+.. image:: https://raw.githubusercontent.com/RedTurtle/rt.maracas/master/rt/maracas/browser/static/rt-maracas-banner.png
 
 A Plone gadget for the 2014 FIFA World Cup Brazil
 
